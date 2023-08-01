@@ -10,3 +10,7 @@ The system consists of Arduino uno as the main processing unit. A joystick takes
  the command is transmitted (two short beeps and a green light indicate an increase, and one long beep and a red light indicate a decrease.).
 
  ## For more details check out [this](https://youtu.be/eoylrCKNo1c) youtube video.
+
+## Credits:
+
+_This project was solely made by [me](https://github.com/ChiragKotian) as a side project_
